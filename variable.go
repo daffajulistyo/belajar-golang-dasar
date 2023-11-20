@@ -27,4 +27,8 @@ func main5() {
 
 	fmt.Println(firstName+" "+lastName)
 
+	city := "Padang"
+
+	fmt.Println(city)
+
 }
